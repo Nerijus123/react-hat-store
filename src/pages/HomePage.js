@@ -5,7 +5,9 @@ export default function HomePage() {
     return (
         <>
            <ProductConsumer>
-                {value => <h1>{value}</h1>}      
+               {value => {
+                    return <h1>Hello From Home Page</h1>;       
+                }}
             </ProductConsumer> 
         </>
     )
