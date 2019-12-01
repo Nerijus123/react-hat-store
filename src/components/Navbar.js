@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaBars, FaCartPlus} from 'react-icons/fa';
+import { FaBars, FaCartPlus } from 'react-icons/fa';
 import styled from 'styled-components';
 import {ProductConsumer} from '../context';
 import logo from '../images/logo.png';

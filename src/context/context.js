@@ -1,5 +1,5 @@
-import React, {Component} from 'react';
-import {linkData} from './linkData';
+import React, { Component } from 'react';
+import { linkData } from './linkData';
 
 // created the context object and then two components provider
 const ProductContext = React.createContext();
@@ -12,11 +12,12 @@ class ProductProvider extends Component {
         sidebarOpen: false,
         cartOpen: false,
         cartItems: 5,
-        links: linkData
+        links: linkData,
+        cart: []
     }
     //handle sidebar
     handleSidebar = () => {
-        this.setState({sidebarOpen:!this.state.sidebarOpen});
+        this.setState({sidebarOpen: !this.state.sidebarOpen});
     }
     //hadnle cart
     handleCart = () => {
@@ -51,4 +52,4 @@ class ProductProvider extends Component {
 //export product provider as well as product consumer
 const ProductConsumer = ProductContext.Consumer;
 
-export { ProductProvider,ProductConsumer };
+export { ProductProvider, ProductConsumer };
