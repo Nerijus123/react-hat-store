@@ -12,7 +12,7 @@ export default function Navbar() {
             return <NavWrapper>
                     <div className="nav-center">
                         <FaBars className="nav-icon" onClick={handleSidebar}/>
-                        <img src={logo} alt="hat shop logo"/>
+                        <img className="nav-logo" src={logo} alt="hat shop logo"/>
                         <div className="nav-cart">
                             <FaCartPlus className="nav-icon" onClick={handleCart}>
                             </FaCartPlus>
@@ -60,6 +60,9 @@ const NavWrapper = styled.nav`
         padding: 0 5px;
         border-radius: 50%;
     }
-
+    .nav-logo {
+        width: 300px;
+        height: 90px;
+    }
 `;
  
