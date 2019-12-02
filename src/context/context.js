@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { linkData } from './linkData';
+import { socialData } from './socialData';
 
 // created the context object and then two components provider
 const ProductContext = React.createContext();
@@ -13,6 +14,7 @@ class ProductProvider extends Component {
         cartOpen: false,
         cartItems: 5,
         links: linkData,
+        socialIcons: socialData,
         cart: []
     }
     //handle sidebar
