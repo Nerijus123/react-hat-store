@@ -2,83 +2,83 @@ export const items = [
   {
     sys: { id: 0 },
     fields: {
-      title: "google pixel - black",
+      title: "Tophat - black",
       price: 10,
-      company: "google",
+      company: "Armani",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: true,
-      image: { fields: { file: { url: "img/product-0.png" } } }
+      image: { fields: { file: { url: "img/hat-0.png" } } }
     }
   },
   {
     sys: { id: 1 },
 
     fields: {
-      title: "samsung s7 - white",
+      title: "Red womans boelwr",
       price: 20,
-      company: "samsung",
+      company: "D & G",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-1.png" } } }
+      image: { fields: { file: { url: "img/hat-1.png" } } }
     }
   },
   {
     sys: { id: 2 },
 
     fields: {
-      title: "htc 10 - black",
+      title: "Tophat - black",
       price: 30,
-      company: "htc",
+      company: "Gucci",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-2.png" } } }
+      image: { fields: { file: { url: "img/hat-2.png" } } }
     }
   },
   {
     sys: { id: 3 },
 
     fields: {
-      title: "htc 10 - white",
+      title: "Tophat - black",
       price: 15,
-      company: "htc",
+      company: "Ck",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-3.png" } } }
+      image: { fields: { file: { url: "img/hat-3.png" } } }
     }
   },
   {
     sys: { id: 4 },
 
     fields: {
-      title: "samsung s7 - black",
+      title: "Tophat - black",
       price: 45,
-      company: "google",
+      company: "HERMES",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-4.png" } } }
+      image: { fields: { file: { url: "img/hat-4.png" } } }
     }
   },
   {
     sys: { id: 5 },
 
     fields: {
-      title: "samsung galaxy A8 - black",
+      title: "Tophat - black",
       price: 55,
-      company: "samsung",
+      company: "PRADA",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-5.png" } } }
+      image: { fields: { file: { url: "img/hat-5.png" } } }
     }
   },
 
@@ -86,96 +86,96 @@ export const items = [
     sys: { id: 6 },
 
     fields: {
-      title: "fuji X100s photo camera",
+      title: "straw hat - brown",
       price: 90,
-      company: "fuji",
+      company: "CHANEL",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: true,
 
-      image: { fields: { file: { url: "img/product-6.png" } } }
+      image: { fields: { file: { url: "img/hat-6.png" } } }
     }
   },
   {
     sys: { id: 7 },
 
     fields: {
-      title: "canon Eos 30 photo camera",
+      title: "Tophat - black",
       price: 120,
-      company: "canon",
+      company: "RALPH LAUREN",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-7.png" } } }
+      image: { fields: { file: { url: "img/hat-7.png" } } }
     }
   },
   {
     sys: { id: 8 },
 
     fields: {
-      title: "nikon D 3100 photo camera",
+      title: "woman hat - white",
       price: 55,
-      company: "nikon",
+      company: "BURBERRY",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-8.png" } } }
+      image: { fields: { file: { url: "img/hat-8.png" } } }
     }
   },
   {
     sys: { id: 9 },
 
     fields: {
-      title: "acer desktop computer",
+      title: "Tophat - green",
       price: 35,
-      company: "acer",
+      company: "FENDI",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: true,
 
-      image: { fields: { file: { url: "img/product-9.png" } } }
+      image: { fields: { file: { url: "img/hat-9.png" } } }
     }
   },
   {
     sys: { id: 10 },
 
     fields: {
-      title: "hp desktop computer",
+      title: "sheriff hat",
       price: 75,
-      company: "hp",
+      company: "VERSACE",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
 
-      image: { fields: { file: { url: "img/product-10.png" } } }
+      image: { fields: { file: { url: "img/hat-10.png" } } }
     }
   },
   {
     sys: { id: 11 },
 
     fields: {
-      title: "lenovo desktop computer",
+      title: "top hat - white",
       price: 110,
-      company: "lenovo",
+      company: "armani",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
-      image: { fields: { file: { url: "img/product-11.png" } } }
+      image: { fields: { file: { url: "img/hat-11.png" } } }
     }
   },
   {
     sys: { id: 12 },
 
     fields: {
-      title: "dell desktop computer",
+      title: "top hat - black",
       price: 28,
-      company: "dell",
+      company: "d & g",
       description:
-        "Shaman hexagon fam activated charcoal literally cardigan. Pitchfork YOLO man bun hella. Trust fund vexillologist squid put a bird on it man braid, selvage pug. Schlitz kombucha chillwave pug shabby chic cornhole. Try-hard four loko listicle yuccie kitsch small batch narwhal celiac selfies distillery cloud bread farm-to-table art party leggings glossier.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, ut laborum? Dicta possimus tempora, aperiam maxime cum assumenda necessitatibus, tempore blanditiis repudiandae pariatur, sit placeat? Dolores dolore harum in nesciunt rerum voluptatum reiciendis, autem quasi inventore quis et magnam neque quaerat eius velit vitae sed amet aspernatur delectu.",
       featured: false,
-      image: { fields: { file: { url: "img/product-12.png" } } }
+      image: { fields: { file: { url: "img/hat-12.png" } } }
     }
   }
 ];
