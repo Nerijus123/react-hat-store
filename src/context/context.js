@@ -167,6 +167,24 @@ class ProductProvider extends Component {
         this.setState({cartOpen: true });
     }
 
+    //cart functionality
+    //increment
+    increment = (id) => {
+      console.log(id);      
+    }
+    //decrement
+    decrement = (id) => {
+      console.log(id);      
+    }
+    //remove item
+    removeItem = (id) => {
+      console.log(id);      
+    }
+    //clear cart
+    clearCart = () => {
+      console.log('awesome you just cleared the cart');      
+    }
+
     render() {
         return (
             //pass the value down as an object
@@ -178,7 +196,11 @@ class ProductProvider extends Component {
                     closeCart: this.closeCart,
                     openCart: this.openCart,
                     addToCart: this.addToCart,
-                    setSingleProduct: this.setSingleProduct
+                    setSingleProduct: this.setSingleProduct,
+                    increment: this.increment,
+                    decrement: this.decrement,
+                    removeItem: this.removeItem,
+                    clearCart: this.clearCart
                 }}>
                 {this.props.children}
             </ProductContext.Provider>
